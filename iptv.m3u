@@ -1,0 +1,27 @@
+#EXTM3U KRIPTO TV
+#EXTINF:-1 tvg-logo = "https://abelinux.xyz/wp-content/uploads/2019/09/comcab-azteca-uno.png", Azteca Uno
+http://xc2.gt-app.com:8080/live/FAN52/iiiiiiiiiiiiiiiiiiiiiiii/55.ts
+
+#EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", Azteca 7
+http://xc2.gt-app.com:8080/live/FAN52/iiiiiiiiiiiiiiiiiiiiiiii/54.ts
+
+#EXTINF:-1 tvg-logo = "http://1000marcas.net/wp-content/uploads/2021/04/AE-Logo-1995-1.png", A&E
+http://xc2.gt-app.com:8080/live/FAN52/iiiiiiiiiiiiiiiiiiiiiiii/60.ts
+
+#EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", Warner Channel
+http://xc2.gt-app.com:8080/live/FAN52/iiiiiiiiiiiiiiiiiiiiiiii/2.ts
+
+#EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",  Animal Planet
+http://xc2.gt-app.com:8080/live/FAN52/iiiiiiiiiiiiiiiiiiiiiiii/57.ts
+
+
+
+#EXTINF:-1 tvg-logo = "", 
+#EXTINF:-1 tvg-logo = "", 
+#EXTINF:-1 tvg-logo = "", 
+#EXTINF:-1 tvg-logo = "", 
+#EXTINF:-1 tvg-logo = "", 
+#EXTINF:-1 tvg-logo = "", 
+#EXTINF:-1 tvg-logo = "", 
+#EXTINF:-1 tvg-logo = "", 
+#EXTINF:-1 tvg-logo = "", 
