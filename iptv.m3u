@@ -1,27 +1,48 @@
 #EXTM3U KRIPTO TV
-#EXTINF:-1 tvg-logo = "https://abelinux.xyz/wp-content/uploads/2019/09/comcab-azteca-uno.png", Azteca Uno
-http://xc2.gt-app.com:8080/live/FAN52/iiiiiiiiiiiiiiiiiiiiiiii/55.ts
+#EXTINF:-1 tvg-logo = "",  Azteca Uno
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=27&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", Azteca 7
-http://xc2.gt-app.com:8080/live/FAN52/iiiiiiiiiiiiiiiiiiiiiiii/54.ts
+#EXTINF:-1 tvg-logo = "",  Las Estrallas
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2328&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo = "http://1000marcas.net/wp-content/uploads/2021/04/AE-Logo-1995-1.png", A&E
-http://xc2.gt-app.com:8080/live/FAN52/iiiiiiiiiiiiiiiiiiiiiiii/60.ts
+#EXTINF:-1 tvg-logo = "",  Canal 5
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2243&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png", Warner Channel
-http://xc2.gt-app.com:8080/live/FAN52/iiiiiiiiiiiiiiiiiiiiiiii/2.ts
+#EXTINF:-1 tvg-logo = "",  Azteca 7
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=317&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",  Animal Planet
-http://xc2.gt-app.com:8080/live/FAN52/iiiiiiiiiiiiiiiiiiiiiiii/57.ts
+#EXTINF:-1 tvg-logo = "", ADN 40
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=40&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-logo = "", AZ Corazon
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=70&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-logo = "", AZ Clic
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=11&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo = "", 
-#EXTINF:-1 tvg-logo = "", 
-#EXTINF:-1 tvg-logo = "", 
-#EXTINF:-1 tvg-logo = "", 
-#EXTINF:-1 tvg-logo = "", 
-#EXTINF:-1 tvg-logo = "", 
-#EXTINF:-1 tvg-logo = "", 
-#EXTINF:-1 tvg-logo = "", 
-#EXTINF:-1 tvg-logo = "", 
+#EXTINF:-1 tvg-logo = "", A&E
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=62&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo = "", Animal Planet
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2378&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo = "", AZ Mundo
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=84&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo = "", AMC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=328&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo = "", AXN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=64&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo = "", AZ Cinema
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=1787&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo = "", Adrenalina
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2404&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-logo = "", Afizzionados
+http://145.239.2.125:24750/live/6e4e9988a0584431b185134ed302f598/7806cd06706a4d3189251531bcb5fd54/119.m3u8
+
+#EXTINF:-1 tvg-logo = "", Aym Sports
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=180&format=HLSAD&f=.m3u8
