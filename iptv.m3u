@@ -173,11 +173,95 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4
 #EXTINF:-1 tvg-id="AZ Cinema" tvg-name="AZ Cinema" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png", AZ Cinema
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=1787&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-id="De Pelicula Plus" tvg-name="De Pelicula Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/DPel%C3%ADcula_Plus_2021.png/revision/latest/scale-to-width-down/175?cb=20210129162928&path-prefix=es", De Pelicula Plus
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=121&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png", De Pelicula
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=335&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Star Life" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_life-mediano.png", Star Life
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=77&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Star Action" tvg-name="Star Action" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_action-mediano.png", Star Action
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=336&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Star Hits" tvg-name="Star Hits" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_hits-mediano.png", Star Hits
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=146&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Star Series" tvg-name="Star Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_series-mediano.png", Star Series
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=139&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png", Cinemax
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=158&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="FXM" tvg-name="FXM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fxm-mediano.png", FXM
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=138&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=123&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", Golden Edge
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=124&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Golden Plus" tvg-name="Golden Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png", Golden Plus
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=122&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/7/7a/ParamountNetworkLA.png/revision/latest?cb=20200414174142&path-prefix=es", Paramount Network
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=1726&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png", Space
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=129&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png", TNT
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=126&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png", TNT Series
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=71&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png", Universal Channel
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=57&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png", Studio Universal
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=132&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Morbid" tvg-name="Morbid" tvg-logo="", Morbid
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=140&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-id="Adrenalina" tvg-name="Adrenalina" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png", Adrenalina
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2404&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png", TUDN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=174&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-id="Afizzionados" tvg-name="Afizzionados" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/afizzionados-mediano.png", Afizzionados
 http://145.239.2.125:24750/live/6e4e9988a0584431b185134ed302f598/7806cd06706a4d3189251531bcb5fd54/119.m3u8
 
 #EXTINF:-1 tvg-id="Aym Sports" tvg-name="Aym Sports" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png", Aym Sports
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=180&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png", ESPN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=169&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=168&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png", ESPN 3
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=345&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_extra_latinoamerica-mediano.png", ESPN Extra
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=167&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sport" tvg-name="Fox Sport" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png", Fox Sport
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=170&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sport 2" tvg-name="Fox Sport 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png", Fox Sport 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=172&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sport 3" tvg-name="Fox Sport 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png", Fox Sport 3
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=178&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Px Sport" tvg-name="Px Sport" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/px_sports-mediano.png", Px Sport
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=950&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Tvc Deportes" tvg-name="Tvc Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_deportes-mediano.png", Tvc Deportes
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2157&format=HLSAD&f=.m3u8
