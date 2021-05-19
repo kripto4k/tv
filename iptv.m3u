@@ -14,6 +14,27 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4
 #EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/adn_40.png", ADN 40
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=40&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-id="ForoTv" tvg-name="ForoTv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png", Foro Tv
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=700&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/e9cc3d7/2147483647/strip/true/crop/280x210+0+80/resize/818x614!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fhttps%3A%2F%2Fi2.esmas.com%2F2014%2F12%2F19%2F730938%2Fgala-tv-.jpg", Gala TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=24&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Imagen Tv" tvg-name="Imagen Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png", Imagen Tv
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2298&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Nu9ve" tvg-name="Nu9ve" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png", Nu9ve
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2248&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Once Tv" tvg-name="Once Tv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png", Once Tv
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=1942&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Ingenio TV" tvg-name="Ingenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ingenio_tv-mediano.png", Ingenio TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=401&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Milenio Tv" tvg-name="Milenio Tv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/milenio_tv-mediano.png", Milenio Tv
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=1252&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-id="AZ Corazon" tvg-name="AZ Corazon" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png", AZ Corazon
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=70&format=HLSAD&f=.m3u8
 
@@ -23,11 +44,125 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png", A&E
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=62&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png", Star Channel
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=46&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png", FX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=60&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Warner Tv" tvg-name="Warner Tv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png", Warner Tv
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=205&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png", Sony
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=48&format=HLSAD&f=.m3u8
+
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png", Animal Planet
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2378&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-id="AZ Mundo" tvg-name="AZ Mundo" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png", AZ Mundo
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=84&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png", Discovery Channel
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=86&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png", National Geographic
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=91&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nat_geo_wild-mediano.png", Nat Geo Wild
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=92&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery H&H" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png", Discovery H&H
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=96&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png", History
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=123&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png", Discovery ID
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2376&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png", Discovery Science
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=98&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png", Discovery Theater 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=95&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png", Discovery Turbo
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2379&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png", Discovery World 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=101&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png", TLC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2380&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png", Tlnovelas
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=83&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png",Comedy Central 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=340&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia-mediano.png", Distrito Comedia
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=78&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="E! Entreniment" tvg-name="E! Entreniment" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png", E! Entreniment
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=55&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="TruTv" tvg-name="TruTv" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tru_tv-mediano.png", TruTv
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=79&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Isat" tvg-name="Isat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png", Isat
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=135&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="LifeTime" tvg-name="LifeTime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png", LifeTime
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=94&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/syfy-mediano.png", SyFy 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=59&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs-mediano.png", TBS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=81&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Tcm" tvg-name="Tcm" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png", Tcm
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=128&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Garage TV" tvg-name="Garage TV" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png", Garage TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=75&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Gourmet" tvg-name="Gourmet" tvg-logo="https://elgourmet.com/theme/assets/logo.png", Gourmet
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=74&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/glitz-mediano.png", Glitz
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=76&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo Kids" tvg-name="Nat Geo Kids" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nat_geo_kids-mediano.png", Nat Geo Kids
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2373&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Disney jr" tvg-name="Disney jr" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png", Disney jr
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=118&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png", Nick Jr
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=117&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png", Disney Channel
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=113&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang_latinoamerica-mediano.png", Boomerang
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=115&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png", Nick
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=331&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_xd-mediano.png", Disney XD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=111&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png", Cartoon Network
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=112&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png", Tooncast
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=108&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Bitme" tvg-name="Bitme" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png", Bitme
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2591&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png", AMC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=328&format=HLSAD&f=.m3u8
