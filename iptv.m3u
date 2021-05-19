@@ -265,3 +265,27 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4
 
 #EXTINF:-1 tvg-id="Tvc Deportes" tvg-name="Tvc Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_deportes-mediano.png", Tvc Deportes
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2157&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png", Bandamax
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=221&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png", MTV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=212&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv_hits-mediano.png", MTV Hits
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=213&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv_live_hd-mediano.png", MTV Live
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=211&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv_80s-mediano.png", MTV 80s
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=214&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Telehit Musica" tvg-name="Telehit Musica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png", Telehit Musica
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=218&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Telehit Musica Plus" tvg-name="Telehit Musica Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica_plus-mediano.png", Telehit Musica Plus
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=220&format=HLSAD&f=.m3u8
+
+#EXTINF:-1 tvg-id="Vh1" tvg-name="Vh1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/vh1-mediano.png", Vh1
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=334&format=HLSAD&f=.m3u8
