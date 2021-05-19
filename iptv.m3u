@@ -1,11 +1,11 @@
 #EXTM3U KRIPTO TV
-#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-logo = "",  Azteca Uno
+#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png",  Azteca Uno
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=27&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="Las Estrallas" tvg-name="Las Estrallas" tvg-logo = "",  Las Estrallas
+#EXTINF:-1 tvg-id="Las Estrallas" tvg-name="Las Estrallas" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png",  Las Estrallas
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2328&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo = "",  Canal 5
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png",  Canal 5
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2243&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo = "",  Azteca 7
