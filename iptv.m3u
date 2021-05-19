@@ -8,41 +8,41 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png",  Canal 5
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2243&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo = "",  Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png",  Azteca 7
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=317&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" tvg-logo = "", ADN 40
+#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/adn_40.png", ADN 40
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=40&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="AZ Corazon" tvg-name="AZ Corazon" tvg-logo = "", AZ Corazon
+#EXTINF:-1 tvg-id="AZ Corazon" tvg-name="AZ Corazon" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png", AZ Corazon
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=70&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="AZ Clic" tvg-name="AZ Clic" tvg-logo = "", AZ Clic
+#EXTINF:-1 tvg-id="AZ Clic" tvg-name="AZ Clic" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_clic-mediano.png", AZ Clic
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=11&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo = "", A&E
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png", A&E
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=62&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo = "", Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png", Animal Planet
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2378&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="AZ Mundo" tvg-name="AZ Mundo" tvg-logo = "", AZ Mundo
+#EXTINF:-1 tvg-id="AZ Mundo" tvg-name="AZ Mundo" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png", AZ Mundo
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=84&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo = "", AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png", AMC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=328&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo = "", AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png", AXN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=64&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="AZ Cinema" tvg-name="AZ Cinema" tvg-logo = "", AZ Cinema
+#EXTINF:-1 tvg-id="AZ Cinema" tvg-name="AZ Cinema" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png", AZ Cinema
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=1787&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="Adrenalina" tvg-name="Adrenalina" tvg-logo = "", Adrenalina
+#EXTINF:-1 tvg-id="Adrenalina" tvg-name="Adrenalina" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png", Adrenalina
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=2404&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="Afizzionados" tvg-name="Afizzionados" tvg-logo = "", Afizzionados
+#EXTINF:-1 tvg-id="Afizzionados" tvg-name="Afizzionados" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/afizzionados-mediano.png", Afizzionados
 http://145.239.2.125:24750/live/6e4e9988a0584431b185134ed302f598/7806cd06706a4d3189251531bcb5fd54/119.m3u8
 
-#EXTINF:-1 tvg-id="Aym Sports" tvg-name="Aym Sports" tvg-logo = "", Aym Sports
+#EXTINF:-1 tvg-id="Aym Sports" tvg-name="Aym Sports" tvg-logo = "https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png", Aym Sports
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=mdwdhe4ddxvy6ds&lchId=180&format=HLSAD&f=.m3u8
